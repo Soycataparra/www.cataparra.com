@@ -12,7 +12,7 @@ a {
 }
 
 a:hover {
-  color: #ef4b72;
+  color: #ff5c76;
 }
 
 .text-primary {
@@ -118,7 +118,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #ef4b72;
+  color: #ff5c76;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
